@@ -1,0 +1,21 @@
+SALESMAN	JAN	FEB	MAR	APR	MAY	JUN	TOTAL SALES		SUM	PATTERN	AVG	RANK	CHART
+ANU	70	80	75	60	72	55	412		824		68.66666667	2	
+BABU	30	48	35	45	25	37	220		440		36.66666667	9	
+CHANDRU	65	54	49	54	35	65	322		644		53.66666667	6	
+DAVID	85	71	68	77	88	73	462		924		77	2	
+EINSTEIN	55	25	45	50	53	30	258		516		43	8	
+FAROOK	35	45	15	45	45	25	210		420		35	6	
+GOWTHAM	75	66	59	65	56	30	351		702		58.5	5	
+HARSHITH	29	35	49	48	35	55	247		498		41.83333333	9	
+INIYAN	35	35	50	59	67	73	319		638		53.16666667	7	
+JOHN	77	85	77	68	56	25	388		776		64.66666667	4	
+MONTHLY SALES	556	544	522	571	532	468		3193					
+							3189						
+													
+													
+													
+											1. Individual Sales using Sum()		
+											2. Find the pattern trend using conditional formatting in home page		
+											3. Analyze using Pivot table as column percentage		
+											4. Insert Pivot charts		
+											5. Rank() - returns the rank of a given value by comparing  a list of numeric values. 		
